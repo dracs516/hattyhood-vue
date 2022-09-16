@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/shop/[id]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fshop%2F%5Bid%5D&absolutePagePath=%2FUsers%2Fdracs02%2FDeveloper%2Fvue%2Fvue%2Fpages%2Fshop%2F%5Bid%5D.js!","./pages/shop/[id].js","./src/components/product/Details.js","./src/components/slider/RelatedProduct.js"]}
